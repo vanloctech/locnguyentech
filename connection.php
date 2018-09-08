@@ -1,8 +1,8 @@
 <?php
-$conn = mysqli_connect('localhost', 'root', 'vertrigo', 'demo') or die ('Không thể kết nối tới database');
+$conn = mysqli_connect('us-cdbr-iron-east-01.cleardb.net', 'bd2419aa733714', '081755e3', 'heroku_ec36e8a5269140c') or die ('Không thể kết nối tới database');
  
 // Câu truy vấn
-$sql = 'SELECT * FROM CUSTOMER';
+$sql = 'SELECT * FROM `users`';
  
 // Thực hiện câu truy vấn, hàm này truyền hai tham số vào là biến kết nối và câu truy vấn
 $result = mysqli_query($conn, $sql);
