@@ -1,7 +1,8 @@
 <?php
 header('Content-Type: text/html; charset=utf-8');
 //access_token page
-$access_token = "EAAUK1vC5SK4BAGf6f5VGIPqKXbGZCLxgz3h5rhy1igZBQQmfZC75xdwHNe836uhbMeS2NyvLu9ZCjsxrTLvmXCn4ZAZCoA5r36XUFbicqomZBxJZAE4ZAHkHcQW9UyT3eRkypFNrMoGIA1hYDo2RUcwqnAR3iODpi7bFTcZBpMaRO16AZDZD";
+//$access_token = "EAAUK1vC5SK4BAGf6f5VGIPqKXbGZCLxgz3h5rhy1igZBQQmfZC75xdwHNe836uhbMeS2NyvLu9ZCjsxrTLvmXCn4ZAZCoA5r36XUFbicqomZBxJZAE4ZAHkHcQW9UyT3eRkypFNrMoGIA1hYDo2RUcwqnAR3iODpi7bFTcZBpMaRO16AZDZD";
+$access_token = "EAAUK1vC5SK4BACIBU970fqIVp3lw0h1fSBX0l6ULrAYYSj7ZBBZBhlrPKQLy7keib7JlZCmCz3OcZAaimpYu5dG6ggUeFi1Wv6Xskhwzd6RvThRmceL0n8Nluz5tK7UxATvF8sLn0f6GYU0hZCPAtN2ZBAveUc6jO4FlSiCs1RWgZDZD";
 //token xac nhan
 //$verify_token = "vanloc354";
 $verify_token = "12345678988";
