@@ -7,7 +7,7 @@
 ?>
 <?php
 ini_set('max_execution_time', 0);
-$token       = "EAACW5Fg5N2IBANoiy3GpIeq5E3fWrSDMaAzEZCFIKZCcTLe3DnlNl6IU6VqJYfihGuTE4BGX5dRsial74rzmNRxtwAYCuYl4vqZAn6wbV4u3ZBG5PsPWX4BcMACMalh8P7RGwcHtZBMlOxnzFCcrZAyU9nWdN9LbMnOI4p4xS6LpAvdvPyK0QVq5hhUJrlcOAZD"; //token full quyền
+$token       = "EAAAAUaZA8jlABAJ219zRJVCZBA5xE25CEg0Bi5ZA8IiKzFci8IzZB0LKJNd6ioeeYg3VkXQvt4QllfsCuwp4PEVsuDMizZBFdwzOjo57m79y2My8ZCt0onGINxGPF0LqJowU0y2mg5UGR3UwUqIzwCBPPjLXFLS06QDcIu8R3QZBgZDZD"; //token full quyền
 $limit       = 10; //chỉnh số bài đăng của muốn lấy
 $array_avoid = ["325886610898617","123"];//id nhóm, trang muốn tránh auto, viết như mình viết, ID đầu là của nhóm J2Team Community
 $person_avoid = ["100001518861027","123"]; //id người
